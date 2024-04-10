@@ -8,7 +8,7 @@ class Rowfin extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Anaya Row con fin"),
+        title: Text("Anaya columna centrada"),
         backgroundColor: Colors.amber,
       ),
       drawer: DrawerMenu(),
